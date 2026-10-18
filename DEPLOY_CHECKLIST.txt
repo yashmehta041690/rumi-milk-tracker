@@ -1,0 +1,8 @@
+PRE-DEPLOY PRIVACY CHECKLIST
+[ ] Upload only this code package to Cloudflare Pages.
+[ ] Never place rumi-pumping-history-private.json in the deployment ZIP or public file area.
+[ ] After deploy, import the private JSON file from the iPhone Files picker inside Data & backup.
+[ ] Confirm 710 records appear.
+[ ] Add a test entry, close/reopen, verify it persists.
+[ ] Export a fresh JSON backup and store it separately.
+[ ] Add the HTTPS page to iPhone Home Screen from Safari.
